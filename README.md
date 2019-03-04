@@ -8,6 +8,6 @@ GitHub templates for community health files:
 - `SUPPORT` [documentation](https://help.github.com/en/articles/adding-support-resources-to-your-project)
 
 GitHub wil use and display this template files, when you add them to one of the locations:
-- root folder
+- the `root` folder
 - the `.github` folder
-- the _docs_ folder
+- the `docs` folder
