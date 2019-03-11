@@ -1,4 +1,4 @@
-# CommunityHealthFileTemplates
+# Test CommunityHealthFileTemplates
 GitHub templates for community health files:
 - `CODE_OF_CONDUCT` [documentation](https://help.github.com/en/articles/adding-a-code-of-conduct-to-your-project)
 - `CONTRIBUTING` [documentation](https://help.github.com/en/articles/setting-guidelines-for-repository-contributors)
